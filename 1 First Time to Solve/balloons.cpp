@@ -1,6 +1,6 @@
 // Question Link: https://a2oj.com/p?ID=6
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main()
